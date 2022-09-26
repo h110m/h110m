@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I'm currently working on a Server Manager Software that runs on Ubuntu 20.04 and NodeJS<br>🤝  I'm looking for help with my baileys-bottle orm store package<br>🌱  I'm currently learning everything & nothing<br>💬  Ask me about WebPush Magic :><br>⚡  Fun fact: I developt a lib for the OSC protocol to control a X32 digital mixer 
+👾  LvL 18<br>🏳️‍🌈  He/Him + Pan<br>🔭  I'm currently working on a Server Manager Software that runs on Ubuntu 20.04 and NodeJS<br>🤝  I'm looking for help with my baileys-bottle orm store package<br>🌱  I'm currently learning everything & nothing<br>💬  Ask me about WebPush Magic :><br>⚡  Fun fact: I developt a lib for the OSC protocol to control a X32 digital mixer 
 
 
 ## 🌐 Socials:
